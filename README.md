@@ -11,7 +11,7 @@ This application compares an invoice against a contract and checks whether the v
 - **Language**: Python 3.x
 - **Interface**: Command Line (CLI)
 
-## 📦 Installation
+## Installation
 ```bash
 git clone <this-repo>
 cd invoice-contract-validator
