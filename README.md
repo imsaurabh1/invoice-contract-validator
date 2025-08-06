@@ -37,7 +37,10 @@ For each invoice field (amount, due date, service), it will:
 - Retrieve relevant contract text
 - Use LLM to verify if it matches and give the justification for the result
 
-Below is an example of the validation results when running the project:
+Below is an example of the validation results (2 yes, 1 no) when running the project:
+- Amount match
+- Date mis-match
+- Service match
 ![Sample Output](output/output.png)
 
 ---
